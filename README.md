@@ -14,6 +14,7 @@
 Simply clone to your local device and run the following command: <code>npm i</code>
 ## Usage
  To begin generating a new ReadMe, run the following command: <code>node index.js</code> then you will be prompted to begin.
+ ![Alt Text](./readmegendemo.gif)
 ## Contributing
  This project is complete. However, if you are interested in adding features, fixing potential bugs, etc. then find my contact information in the Questions section.
 ## Tests
