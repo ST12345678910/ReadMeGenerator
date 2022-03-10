@@ -20,5 +20,5 @@ Simply clone to your local device and run the following command: <code>npm i</co
 ## Tests
  This does not require testing.
 ## Questions
-If you have any questions about the project or repository, open issue or contact me directly at <code>shaun.tehranchi@gmail.com</code>. Find more of my projects @ <code>ST12345678910</code>
+If you have any questions about the project or repository, open issue or contact me directly at <code>shaun.tehranchi@gmail.com</code>. Find more of my projects on Github <code>@ST12345678910</code>
  
