@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 
 ## Description
- A CLI node.js application that takes user input and creates a markdown formatted  ReadMe.
+ A node.js application that utilizes the <code>Inquirer package</code>, to take user input and create a markdown formatted ReadMe.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,13 +11,14 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-Simply clone and pull to your device, then run the following code:
+Simply clone to your local device and run the following command: <code>npm i</code>
 ## Usage
- User generated ReadMe can be found in the contents of the generatedReadMe.md file.
+ To begin generating a new ReadMe, run the following command: <code>node index.js</code> then you will be prompted to begin.
+ ![Alt Text](./readmegendemo.gif)
 ## Contributing
  This project is complete. However, if you are interested in adding features, fixing potential bugs, etc. then find my contact information in the Questions section.
 ## Tests
  This does not require testing.
 ## Questions
-If you have any questions about the project or repository, open issue or contact me directly at <code>shaun.tehranchi@gmail.com</code>. Find more of my projects @ <code>ST12345678910</code>
+If you have any questions about the project or repository, open issue or contact me directly at <code>shaun.tehranchi@gmail.com</code>. Find more of my projects on Github <code>@ST12345678910</code>
  
