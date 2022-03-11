@@ -76,8 +76,7 @@ ${answers.installation}
 ## Questions
 If you have any questions about the project or repository, open issue or contact me directly at <code>${answers.email}</code>. Find more of my projects @ <code>${answers.username}</code>
     `
-    fs.writeFile('generatedReadMe.md', newReadme, function (err) {
-        return console.log(err)
+    fs.writeFile('generatedReadMe.md', newReadme, function (err) { 
       })
   })
 .catch(function (err) {
