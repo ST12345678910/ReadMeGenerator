@@ -18,7 +18,7 @@ Simply clone to your local device and run the following command: <code>npm i</co
 ## Contributing
  This project is complete. However, if you are interested in adding features, fixing potential bugs, etc. then find my contact information in the Questions section.
 ## Tests
- This does not require testing.
+ The test that is currently available checks to make sure that all of the sections of the ReadMe are present. Start by installing Jest with <code>npm install --save-dev jest</code>, then running the command <code>npm run test</code>
 ## Questions
 If you have any questions about the project or repository, open issue or contact me directly at <code>shaun.tehranchi@gmail.com</code>. Find more of my projects on Github <code>@ST12345678910</code>
  
