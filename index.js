@@ -82,3 +82,7 @@ If you have any questions about the project or repository, open issue or contact
 .catch(function (err) {
     return console.log(err)
   })
+
+app.listen(process.env.PORT || 3000, function () {
+  console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
+});
