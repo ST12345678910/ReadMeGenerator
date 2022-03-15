@@ -81,5 +81,7 @@ If you have any questions about the project or repository, open issue or contact
   })
 .catch(function (err) {
     return console.log(err)
-  }).listen(process.env.PORT || 3000)
+  })
+  
+  app.listen(process.env.PORT || 3000)
   
