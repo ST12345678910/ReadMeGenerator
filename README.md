@@ -2,8 +2,7 @@
 <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 
 ## Description
- A Node.js (Node) application that utilizes the <code>Inquirer package</code>, to take user input and create a markdown formatted ReadMe.
-
+ A Node.js (Node) application that utilizes the <code>Inquirer package</code>, to take user input and create a markdown formatted ReadMe. Quickly make your repository look more proffesional and easy to navigate. 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
