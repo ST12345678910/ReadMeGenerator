@@ -83,5 +83,5 @@ If you have any questions about the project or repository, open issue or contact
     return console.log(err)
   })
 
-  `const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5000;
   
