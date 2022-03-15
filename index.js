@@ -83,5 +83,9 @@ If you have any questions about the project or repository, open issue or contact
     return console.log(err)
   })
   
-  app.listen(process.env.PORT || 3000)
+  const PORT = process.env.PORT || '8080'
+
+  app = express();
+
+  app.set("port", PORT)
   
